@@ -14,6 +14,14 @@ Sample website with plenty of files for demos
 
 Sample website with plenty of files for demos
 
+## References
+
+Special people
+
 ## Credits
 
 Thanks everyone
+
+### Copyright
+
+Copyright
