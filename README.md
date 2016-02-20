@@ -13,3 +13,7 @@ Sample website with plenty of files for demos
 ## Purpose
 
 Sample website with plenty of files for demos
+
+## Credits
+
+Thanks everyone
